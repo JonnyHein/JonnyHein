@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JonnyHein/JonnyHein/main/name.svg" alt="Jonny Hein" />
 </h1>
 
-<h2> Hi, I'm Jonny Hein! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jonny Hein! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="80"></h2>
 
 ```javascript
 const Jonny = {
