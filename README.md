@@ -4,15 +4,15 @@
 
 <h2> Hi, I'm Jonny Hein! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="80"></h2>
 
-- 👥 Junior DevOps Engineer and Team Lead at DocuSign
+- 👥 Software Engineer II @ Addepar
 
 
 ```javascript
 const Jonny = {
   pronouns: "he" | "him",
   occupation: {
-    company: "DocuSign",
-    position: "Junior DevOps Engineer / Team Lead"
+    company: "Addepar",
+    position: "Software Engineer II"
   },
   goals: "Learn and grow as a developer both on front and back end systems"
 }
